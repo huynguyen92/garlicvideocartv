@@ -1,0 +1,3350 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProject\\SkyTube-master\\app\\build\\intermediates\\incremental\\mergeExtraDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 92,
+                    "endColumn": 16,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 1,
+                        "startOffset": 10279,
+                        "endLine": 416,
+                        "endColumn": 16,
+                        "endOffset": 11931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endLine": 183,
+                    "endColumn": 16,
+                    "endOffset": 3877
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 1,
+                        "startOffset": 8105,
+                        "endLine": 324,
+                        "endColumn": 16,
+                        "endOffset": 10276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 3882,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 4061
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 422,
+                        "startColumn": 1,
+                        "startOffset": 12222,
+                        "endLine": 427,
+                        "endColumn": 16,
+                        "endOffset": 12401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 4066,
+                    "endLine": 195,
+                    "endColumn": 16,
+                    "endOffset": 4191
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 428,
+                        "startColumn": 1,
+                        "startOffset": 12403,
+                        "endLine": 433,
+                        "endColumn": 16,
+                        "endOffset": 12528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 4196,
+                    "endLine": 273,
+                    "endColumn": 16,
+                    "endOffset": 5683
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 1,
+                        "startOffset": 6537,
+                        "endLine": 230,
+                        "endColumn": 16,
+                        "endOffset": 8024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 5688,
+                    "endLine": 351,
+                    "endColumn": 16,
+                    "endOffset": 7550
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4672,
+                        "endLine": 151,
+                        "endColumn": 16,
+                        "endOffset": 6534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 7555,
+                    "endLine": 357,
+                    "endColumn": 16,
+                    "endOffset": 7784
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 442,
+                        "startColumn": 1,
+                        "startOffset": 12994,
+                        "endLine": 447,
+                        "endColumn": 16,
+                        "endOffset": 13223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 7789,
+                    "endLine": 363,
+                    "endColumn": 16,
+                    "endOffset": 7945
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 448,
+                        "startColumn": 1,
+                        "startOffset": 13225,
+                        "endLine": 453,
+                        "endColumn": 16,
+                        "endOffset": 13381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 7950,
+                    "endColumn": 37,
+                    "endOffset": 7983
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 414,
+                        "endColumn": 34,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 7988,
+                    "endColumn": 115,
+                    "endOffset": 8099
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 115,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 8104,
+                    "endColumn": 107,
+                    "endOffset": 8207
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 107,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 8212,
+                    "endColumn": 122,
+                    "endOffset": 8330
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 122,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 8335,
+                    "endColumn": 101,
+                    "endOffset": 8432
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 101,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 8437,
+                    "endColumn": 107,
+                    "endOffset": 8540
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 107,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 8545,
+                    "endColumn": 85,
+                    "endOffset": 8626
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 8631,
+                    "endColumn": 108,
+                    "endOffset": 8735
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 108,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 8740,
+                    "endColumn": 118,
+                    "endOffset": 8854
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 118,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 8859,
+                    "endColumn": 77,
+                    "endOffset": 8932
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 77,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 8937,
+                    "endColumn": 76,
+                    "endOffset": 9009
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 76,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 9014,
+                    "endColumn": 81,
+                    "endOffset": 9091
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 81,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 9096,
+                    "endColumn": 108,
+                    "endOffset": 9200
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 108,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 9205,
+                    "endColumn": 108,
+                    "endOffset": 9309
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 108,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 9314,
+                    "endColumn": 98,
+                    "endOffset": 9408
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 98,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 9413,
+                    "endColumn": 108,
+                    "endOffset": 9517
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 108,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 9522,
+                    "endColumn": 110,
+                    "endOffset": 9628
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 110,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 9633,
+                    "endColumn": 107,
+                    "endOffset": 9736
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1700,
+                        "endColumn": 107,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 9741,
+                    "endColumn": 122,
+                    "endOffset": 9859
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endColumn": 122,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 9864,
+                    "endColumn": 95,
+                    "endOffset": 9955
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 95,
+                        "endOffset": 2022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 9960,
+                    "endLine": 396,
+                    "endColumn": 84,
+                    "endOffset": 10649
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3926,
+                        "endLine": 70,
+                        "endColumn": 87,
+                        "endOffset": 4623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 10654,
+                    "endColumn": 45,
+                    "endOffset": 10695
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 42,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 10700,
+                    "endColumn": 46,
+                    "endOffset": 10742
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 10747,
+                    "endColumn": 42,
+                    "endOffset": 10785
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1746,
+                        "endColumn": 39,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 10790,
+                    "endColumn": 41,
+                    "endOffset": 10827
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1786,
+                        "endColumn": 38,
+                        "endOffset": 1823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 10832,
+                    "endColumn": 46,
+                    "endOffset": 10874
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2456,
+                        "endColumn": 43,
+                        "endOffset": 2498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 10879,
+                    "endColumn": 48,
+                    "endOffset": 10923
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1217,
+                        "endColumn": 45,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 10928,
+                    "endColumn": 76,
+                    "endOffset": 11000
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 13,
+                        "endColumn": 73,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 11005,
+                    "endColumn": 60,
+                    "endOffset": 11061
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1903,
+                        "endColumn": 57,
+                        "endOffset": 1959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 11066,
+                    "endColumn": 82,
+                    "endOffset": 11144
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 2037,
+                        "endColumn": 79,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 11149,
+                    "endColumn": 78,
+                    "endOffset": 11223
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1961,
+                        "endColumn": 75,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 11228,
+                    "endColumn": 82,
+                    "endOffset": 11306
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2556,
+                        "endColumn": 79,
+                        "endOffset": 2634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 11311,
+                    "endColumn": 83,
+                    "endOffset": 11390
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 2202,
+                        "endColumn": 80,
+                        "endOffset": 2281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 11395,
+                    "endColumn": 87,
+                    "endOffset": 11478
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 2117,
+                        "endColumn": 84,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 11483,
+                    "endColumn": 120,
+                    "endOffset": 11599
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2636,
+                        "endColumn": 117,
+                        "endOffset": 2752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 11604,
+                    "endColumn": 175,
+                    "endOffset": 11775
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 2283,
+                        "endColumn": 172,
+                        "endOffset": 2454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 11780,
+                    "endColumn": 58,
+                    "endOffset": 11834
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2500,
+                        "endColumn": 55,
+                        "endOffset": 2554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 11839,
+                    "endColumn": 51,
+                    "endOffset": 11886
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 541,
+                        "endColumn": 48,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 11891,
+                    "endColumn": 68,
+                    "endOffset": 11955
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1640,
+                        "endColumn": 65,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 11960,
+                    "endColumn": 38,
+                    "endOffset": 11994
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 133,
+                        "endColumn": 35,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 11999,
+                    "endColumn": 122,
+                    "endOffset": 12117
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 462,
+                        "endColumn": 119,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 12122,
+                    "endColumn": 93,
+                    "endOffset": 12211
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1346,
+                        "endColumn": 90,
+                        "endOffset": 1435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 12216,
+                    "endColumn": 111,
+                    "endOffset": 12323
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 353,
+                        "endColumn": 108,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 12328,
+                    "endColumn": 96,
+                    "endOffset": 12420
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 554,
+                        "endColumn": 93,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 12425,
+                    "endColumn": 78,
+                    "endOffset": 12499
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 648,
+                        "endColumn": 75,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 12504,
+                    "endColumn": 115,
+                    "endOffset": 12615
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 137,
+                        "endColumn": 112,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 12620,
+                    "endColumn": 87,
+                    "endOffset": 12703
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 84,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 12708,
+                    "endColumn": 71,
+                    "endOffset": 12775
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 250,
+                        "endColumn": 68,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 12780,
+                    "endColumn": 93,
+                    "endOffset": 12869
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 582,
+                        "endColumn": 90,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 12874,
+                    "endColumn": 61,
+                    "endOffset": 12931
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 320,
+                        "endColumn": 58,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 12936,
+                    "endColumn": 100,
+                    "endOffset": 13032
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 456,
+                        "endColumn": 97,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 13037,
+                    "endColumn": 79,
+                    "endOffset": 13112
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 379,
+                        "endColumn": 76,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 13117,
+                    "endColumn": 103,
+                    "endOffset": 13216
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1681,
+                        "endColumn": 100,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 13221,
+                    "endColumn": 45,
+                    "endOffset": 13262
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 450,
+                        "endColumn": 42,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 13267,
+                    "endColumn": 38,
+                    "endOffset": 13301
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 35,
+                        "endOffset": 86
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 13306,
+                    "endColumn": 97,
+                    "endOffset": 13399
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 187,
+                        "endColumn": 94,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 13404,
+                    "endColumn": 100,
+                    "endOffset": 13500
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 89,
+                        "endColumn": 97,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 13505,
+                    "endColumn": 61,
+                    "endOffset": 13562
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 956,
+                        "endColumn": 58,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 13567,
+                    "endColumn": 57,
+                    "endOffset": 13620
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1584,
+                        "endColumn": 54,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 13625,
+                    "endColumn": 47,
+                    "endOffset": 13668
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 4625,
+                        "endColumn": 44,
+                        "endOffset": 4668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 13673,
+                    "endColumn": 69,
+                    "endOffset": 13738
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 674,
+                        "endColumn": 66,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 13743,
+                    "endColumn": 306,
+                    "endOffset": 14045
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 741,
+                        "endColumn": 303,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 14050,
+                    "endColumn": 95,
+                    "endOffset": 14141
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 556,
+                        "endColumn": 92,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 14146,
+                    "endColumn": 136,
+                    "endOffset": 14278
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1547,
+                        "endColumn": 133,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 14283,
+                    "endColumn": 41,
+                    "endOffset": 14320
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 427,
+                        "endColumn": 38,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 14325,
+                    "endColumn": 163,
+                    "endOffset": 14484
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 253,
+                        "endColumn": 160,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 14489,
+                    "endColumn": 58,
+                    "endOffset": 14543
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 900,
+                        "endColumn": 55,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 14548,
+                    "endColumn": 62,
+                    "endOffset": 14606
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 493,
+                        "endColumn": 59,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 14611,
+                    "endColumn": 136,
+                    "endOffset": 14743
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 460,
+                        "endColumn": 133,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 14748,
+                    "endColumn": 106,
+                    "endOffset": 14850
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1296,
+                        "endColumn": 103,
+                        "endOffset": 1398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 14855,
+                    "endColumn": 149,
+                    "endOffset": 15000
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1400,
+                        "endColumn": 146,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 15005,
+                    "endColumn": 78,
+                    "endOffset": 15079
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 282,
+                        "endColumn": 75,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 15084,
+                    "endColumn": 200,
+                    "endOffset": 15280
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_feed.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 358,
+                        "endColumn": 197,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 15285,
+                    "endColumn": 94,
+                    "endOffset": 15375
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1437,
+                        "endColumn": 91,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 15380,
+                    "endColumn": 33,
+                    "endOffset": 15409
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 169,
+                        "endColumn": 30,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 15414,
+                    "endColumn": 65,
+                    "endOffset": 15475
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 1015,
+                        "endColumn": 62,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 15480,
+                    "endColumn": 47,
+                    "endOffset": 15523
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1078,
+                        "endColumn": 44,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 15528,
+                    "endColumn": 42,
+                    "endOffset": 15566
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1706,
+                        "endColumn": 39,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 15571,
+                    "endColumn": 49,
+                    "endOffset": 15616
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 3093,
+                        "endColumn": 46,
+                        "endOffset": 3138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 15621,
+                    "endColumn": 56,
+                    "endOffset": 15673
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1389,
+                        "endColumn": 53,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 15678,
+                    "endColumn": 66,
+                    "endOffset": 15740
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1507,
+                        "endColumn": 63,
+                        "endOffset": 1569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 15745,
+                    "endColumn": 57,
+                    "endOffset": 15798
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 3298,
+                        "endColumn": 54,
+                        "endOffset": 3351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 15803,
+                    "endColumn": 65,
+                    "endOffset": 15864
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 419,
+                        "startColumn": 1,
+                        "startOffset": 11984,
+                        "endColumn": 62,
+                        "endOffset": 12045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 15869,
+                    "endColumn": 66,
+                    "endOffset": 15931
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1732,
+                        "endColumn": 63,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 15936,
+                    "endColumn": 69,
+                    "endOffset": 16001
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2755,
+                        "endColumn": 66,
+                        "endOffset": 2820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 16006,
+                    "endColumn": 57,
+                    "endOffset": 16059
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 3788,
+                        "endColumn": 54,
+                        "endOffset": 3841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 16064,
+                    "endColumn": 85,
+                    "endOffset": 16145
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 82,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 16150,
+                    "endColumn": 79,
+                    "endOffset": 16225
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 245,
+                        "endColumn": 76,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 16230,
+                    "endColumn": 76,
+                    "endOffset": 16302
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 981,
+                        "endColumn": 73,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 16307,
+                    "endColumn": 83,
+                    "endOffset": 16386
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 435,
+                        "startColumn": 1,
+                        "startOffset": 12531,
+                        "endColumn": 80,
+                        "endOffset": 12610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 16391,
+                    "endColumn": 57,
+                    "endOffset": 16444
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3615,
+                        "endColumn": 54,
+                        "endOffset": 3668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 16449,
+                    "endColumn": 88,
+                    "endOffset": 16533
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 1233,
+                        "endColumn": 85,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 16538,
+                    "endColumn": 57,
+                    "endOffset": 16591
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 3508,
+                        "endColumn": 54,
+                        "endOffset": 3561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 16596,
+                    "endColumn": 57,
+                    "endOffset": 16649
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 3191,
+                        "endColumn": 54,
+                        "endOffset": 3244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 16654,
+                    "endColumn": 72,
+                    "endOffset": 16722
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 102,
+                        "endColumn": 69,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 16727,
+                    "endColumn": 52,
+                    "endOffset": 16775
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 1,
+                        "startOffset": 11934,
+                        "endColumn": 49,
+                        "endOffset": 11982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 16780,
+                    "endColumn": 54,
+                    "endOffset": 16830
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 440,
+                        "startColumn": 1,
+                        "startOffset": 12884,
+                        "endColumn": 51,
+                        "endOffset": 12934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 16835,
+                    "endColumn": 59,
+                    "endOffset": 16890
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 438,
+                        "startColumn": 1,
+                        "startOffset": 12772,
+                        "endColumn": 56,
+                        "endOffset": 12827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 16895,
+                    "endColumn": 57,
+                    "endOffset": 16948
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 439,
+                        "startColumn": 1,
+                        "startOffset": 12829,
+                        "endColumn": 54,
+                        "endOffset": 12882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 16953,
+                    "endColumn": 60,
+                    "endOffset": 17009
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 441,
+                        "startColumn": 1,
+                        "startOffset": 12936,
+                        "endColumn": 57,
+                        "endOffset": 12992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 17014,
+                    "endColumn": 102,
+                    "endOffset": 17112
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1571,
+                        "endColumn": 99,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 17117,
+                    "endColumn": 106,
+                    "endOffset": 17219
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 3353,
+                        "endColumn": 103,
+                        "endOffset": 3455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 17224,
+                    "endColumn": 114,
+                    "endOffset": 17334
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 421,
+                        "startColumn": 1,
+                        "startOffset": 12110,
+                        "endColumn": 111,
+                        "endOffset": 12220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 17339,
+                    "endColumn": 109,
+                    "endOffset": 17444
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1796,
+                        "endColumn": 106,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 17449,
+                    "endColumn": 105,
+                    "endOffset": 17550
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2904,
+                        "endColumn": 102,
+                        "endOffset": 3005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 17555,
+                    "endColumn": 85,
+                    "endOffset": 17636
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3843,
+                        "endColumn": 82,
+                        "endOffset": 3924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 17641,
+                    "endColumn": 215,
+                    "endOffset": 17852
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 622,
+                        "endColumn": 212,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 17857,
+                    "endColumn": 143,
+                    "endOffset": 17996
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 322,
+                        "endColumn": 140,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 18001,
+                    "endColumn": 88,
+                    "endOffset": 18085
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 1055,
+                        "endColumn": 85,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 18090,
+                    "endColumn": 88,
+                    "endOffset": 18174
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 437,
+                        "startColumn": 1,
+                        "startOffset": 12686,
+                        "endColumn": 85,
+                        "endOffset": 12770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 18179,
+                    "endColumn": 67,
+                    "endOffset": 18242
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 3670,
+                        "endColumn": 64,
+                        "endOffset": 3733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 18247,
+                    "endColumn": 71,
+                    "endOffset": 18314
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1319,
+                        "endColumn": 68,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 18319,
+                    "endColumn": 141,
+                    "endOffset": 18456
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 457,
+                        "startColumn": 1,
+                        "startOffset": 13521,
+                        "endColumn": 138,
+                        "endOffset": 13658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 18461,
+                    "endColumn": 66,
+                    "endOffset": 18523
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1443,
+                        "endColumn": 63,
+                        "endOffset": 1505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 18528,
+                    "endColumn": 54,
+                    "endOffset": 18578
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 3246,
+                        "endColumn": 51,
+                        "endOffset": 3296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 18583,
+                    "endColumn": 65,
+                    "endOffset": 18644
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 420,
+                        "startColumn": 1,
+                        "startOffset": 12047,
+                        "endColumn": 62,
+                        "endOffset": 12108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 18649,
+                    "endColumn": 63,
+                    "endOffset": 18708
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1671,
+                        "endColumn": 60,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 18713,
+                    "endColumn": 84,
+                    "endOffset": 18793
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2822,
+                        "endColumn": 81,
+                        "endOffset": 2902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 18798,
+                    "endColumn": 55,
+                    "endOffset": 18849
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 3735,
+                        "endColumn": 52,
+                        "endOffset": 3786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 18854,
+                    "endColumn": 77,
+                    "endOffset": 18927
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 464,
+                        "endColumn": 74,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 18932,
+                    "endColumn": 75,
+                    "endOffset": 19003
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 172,
+                        "endColumn": 72,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 19008,
+                    "endColumn": 78,
+                    "endOffset": 19082
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 19087,
+                    "endColumn": 76,
+                    "endOffset": 19159
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 436,
+                        "startColumn": 1,
+                        "startOffset": 12612,
+                        "endColumn": 73,
+                        "endOffset": 12684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 19164,
+                    "endColumn": 54,
+                    "endOffset": 19214
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3563,
+                        "endColumn": 51,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 19219,
+                    "endColumn": 94,
+                    "endOffset": 19309
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 1141,
+                        "endColumn": 91,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 19314,
+                    "endColumn": 53,
+                    "endOffset": 19363
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 3457,
+                        "endColumn": 50,
+                        "endOffset": 3506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 19368,
+                    "endColumn": 53,
+                    "endOffset": 19417
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 3140,
+                        "endColumn": 50,
+                        "endOffset": 3189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 19422,
+                    "endColumn": 72,
+                    "endOffset": 19490
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 456,
+                        "startColumn": 1,
+                        "startOffset": 13451,
+                        "endColumn": 69,
+                        "endOffset": 13519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 19495,
+                    "endColumn": 71,
+                    "endOffset": 19562
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 836,
+                        "endColumn": 68,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 19567,
+                    "endColumn": 69,
+                    "endOffset": 19632
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 455,
+                        "startColumn": 1,
+                        "startOffset": 13384,
+                        "endColumn": 66,
+                        "endOffset": 13449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 19637,
+                    "endColumn": 127,
+                    "endOffset": 19760
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 459,
+                        "startColumn": 1,
+                        "startOffset": 13764,
+                        "endColumn": 124,
+                        "endOffset": 13887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 19765,
+                    "endColumn": 125,
+                    "endOffset": 19886
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 460,
+                        "startColumn": 1,
+                        "startOffset": 13889,
+                        "endColumn": 122,
+                        "endOffset": 14010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 19891,
+                    "endColumn": 106,
+                    "endOffset": 19993
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 458,
+                        "startColumn": 1,
+                        "startOffset": 13660,
+                        "endColumn": 103,
+                        "endOffset": 13762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 19998,
+                    "endColumn": 51,
+                    "endOffset": 20045
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 20050,
+                    "endColumn": 60,
+                    "endOffset": 20106
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 841,
+                        "endColumn": 57,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 20111,
+                    "endColumn": 43,
+                    "endOffset": 20150
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 461,
+                        "startColumn": 1,
+                        "startOffset": 14012,
+                        "endColumn": 40,
+                        "endOffset": 14051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 20155,
+                    "endColumn": 81,
+                    "endOffset": 20232
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2027,
+                        "endColumn": 81,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 20237,
+                    "endColumn": 55,
+                    "endOffset": 20288
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 200,
+                        "endColumn": 52,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 20293,
+                    "endColumn": 49,
+                    "endOffset": 20338
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 1200,
+                        "endColumn": 46,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 20343,
+                    "endColumn": 51,
+                    "endOffset": 20390
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1247,
+                        "endColumn": 48,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 20395,
+                    "endColumn": 59,
+                    "endOffset": 20450
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 1143,
+                        "endColumn": 56,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 20455,
+                    "endColumn": 44,
+                    "endOffset": 20495
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1123,
+                        "endColumn": 41,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 20500,
+                    "endColumn": 54,
+                    "endOffset": 20550
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1165,
+                        "endColumn": 51,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 20555,
+                    "endColumn": 100,
+                    "endOffset": 20651
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 100,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 20656,
+                    "endColumn": 87,
+                    "endOffset": 20739
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_preferences.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 3007,
+                        "endColumn": 84,
+                        "endOffset": 3090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 20744,
+                    "endColumn": 48,
+                    "endOffset": 20788
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 103,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 20793,
+                    "endColumn": 52,
+                    "endOffset": 20841
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 255,
+                        "endColumn": 49,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 20846,
+                    "endColumn": 53,
+                    "endOffset": 20895
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 20900,
+                    "endColumn": 100,
+                    "endOffset": 20996
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 1045,
+                        "endColumn": 97,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 21001,
+                    "endColumn": 63,
+                    "endOffset": 21060
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 193,
+                        "endColumn": 60,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 21065,
+                    "endColumn": 52,
+                    "endOffset": 21113
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 270,
+                        "endColumn": 49,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 21118,
+                    "endColumn": 46,
+                    "endOffset": 21160
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 149,
+                        "endColumn": 43,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 21165,
+                    "endColumn": 49,
+                    "endOffset": 21210
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_subs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 305,
+                        "endColumn": 46,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 21215,
+                    "endColumn": 49,
+                    "endOffset": 21260
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 247,
+                        "endColumn": 46,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 21265,
+                    "endColumn": 92,
+                    "endOffset": 21353
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 294,
+                        "endColumn": 89,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 21358,
+                    "endColumn": 45,
+                    "endOffset": 21399
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 384,
+                        "endColumn": 42,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 21404,
+                    "endColumn": 66,
+                    "endOffset": 21466
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 21471,
+                    "endColumn": 133,
+                    "endOffset": 21600
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 116,
+                        "endColumn": 130,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 21605,
+                    "endColumn": 77,
+                    "endOffset": 21678
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_updater.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 466,
+                        "endColumn": 74,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 21683,
+                    "endColumn": 84,
+                    "endOffset": 21763
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1263,
+                        "endColumn": 81,
+                        "endOffset": 1343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 21768,
+                    "endColumn": 58,
+                    "endOffset": 21822
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 140,
+                        "endColumn": 55,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 21827,
+                    "endColumn": 75,
+                    "endOffset": 21898
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 196,
+                        "endColumn": 72,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 21903,
+                    "endColumn": 64,
+                    "endOffset": 21963
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 320,
+                        "endColumn": 61,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 21968,
+                    "endColumn": 79,
+                    "endOffset": 22043
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_bookmarks.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 382,
+                        "endColumn": 76,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 22048,
+                    "endColumn": 57,
+                    "endOffset": 22101
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1529,
+                        "endColumn": 54,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 22106,
+                    "endColumn": 48,
+                    "endOffset": 22150
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 87,
+                        "endColumn": 45,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 22155,
+                    "endColumn": 117,
+                    "endOffset": 22268
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProject\\SkyTube-master\\app\\src\\main\\res\\values-pl\\strings_youtube_player.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 725,
+                        "endColumn": 114,
+                        "endOffset": 838
+                    }
+                }
+            }
+        ]
+    }
+]

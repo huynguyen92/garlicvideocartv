@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProject\\SkyTube-master\\app\\build\\intermediates\\incremental\\mergeExtraDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\PT-LS\\.android\\build-cache\\30b4e054d50b22c2e14d20c4790254585dc58c7f\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
